@@ -181,7 +181,6 @@ Patch109:       python3.patch             # PATCH_FOR: 12
 
 Patch120:       flaky_test_rerun.patch
 
-
 # Use versioned binaries and paths
 Patch200:       versioned.patch
 

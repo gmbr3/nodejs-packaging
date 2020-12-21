@@ -1,7 +1,7 @@
 -------------------------------------------------------------------
 Mon Dec 21 20:10:03 UTC 2020 - Callum Farmer <gmbr3@opensuse.org>
 
-- Add icu-68.patch: fix build with ICU 68
+- Add icu68.patch: fix build with ICU 68
 
 -------------------------------------------------------------------
 Mon Nov 30 19:45:43 UTC 2020 - Adam Majer <adam.majer@suse.de>
